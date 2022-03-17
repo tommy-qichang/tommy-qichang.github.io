@@ -111,32 +111,32 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-       url: "mailto:tommy.qichang@email.com"
+      # url: "mailto:tommy.qichang@email.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-       url: "https://tommy-qichang.github.io/"
+      # url: "https://tommy-qichang.github.io/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-       url: "https://github.com/tommy-qichang"
+      # url: "https://github.com/tommy-qichang"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-       url: "https://www.linkedin.com/in/tommy-qichang/"
+      # url: "https://www.linkedin.com/in/tommy-qichang/"
     - label: "Google Scholar"
       icon: "fab fa-fw fa-scholar"
-      url: "https://scholar.google.com/citations?user=t2vNAtIAAAAJ&hl=en"
+      # url: "https://scholar.google.com/citations?user=t2vNAtIAAAAJ&hl=en"
 
 # Site Footer
 footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/tommy-qichang"
+      # url: "https://github.com/tommy-qichang"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-gitlab"
-      url: "https://www.linkedin.com/in/tommy-qichang/"
+      # url: "https://www.linkedin.com/in/tommy-qichang/"
     - label: "GoogleScholar"
       icon: "fab fa-fw fa-scholar"
-      url: "https://scholar.google.com/citations?user=t2vNAtIAAAAJ&hl=en"
+      # url: "https://scholar.google.com/citations?user=t2vNAtIAAAAJ&hl=en"
 
 
 
