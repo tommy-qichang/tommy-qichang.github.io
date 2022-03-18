@@ -13,22 +13,22 @@
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
-minimal_mistakes_skin    : "aqua" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Qi Chang"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Qi Chang"
+description              : "Qi Chang's Academic Website"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "tommy-qichang/tommy-qichang"# GitHub username/repo-name e.g. "tommy-qichang/tommy-qichang"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
-# breadcrumbs            : false # true, false (default)
+breadcrumbs            : true # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
@@ -104,26 +104,23 @@ analytics:
 # Site Author
 author:
   name             : "Qi Chang"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I'm Ph.D candidate in CS at Rutgers University"
+  avatar           : "assets/images/me.JPG"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Ph.D candidate in CS at Rutgers University"
   location         : "New Jersey, United States"
-  email            : tommy.qichang@gmail.com
+  email            : tommy.qichang@rutgers.edu
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:tommy.qichang@email.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://tommy-qichang.github.io/"
+      url: "https://tommy-qichang.github.io/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/tommy-qichang"
+      url: "https://github.com/tommy-qichang"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      # url: "https://www.linkedin.com/in/tommy-qichang/"
+      url: "https://www.linkedin.com/in/tommy-qichang/"
     - label: "Google Scholar"
       icon: "fab fa-fw fa-scholar"
-      # url: "https://scholar.google.com/citations?user=t2vNAtIAAAAJ&hl=en"
+      url: "https://scholar.google.com/citations?user=t2vNAtIAAAAJ&hl=en"
 
 # Site Footer
 footer:
