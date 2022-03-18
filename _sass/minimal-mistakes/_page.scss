@@ -562,3 +562,17 @@ body {
     }
   }
 }
+.disp_container{
+    display: flex;
+    align-items: flex-start;
+    margin: 10px;
+    padding-bottom: 5px;
+    border-bottom: 1px solid #e1e1e1;
+    img{
+        width:200px
+    }
+    .disp_item{
+        padding-right: 30px;
+    }
+}
+
